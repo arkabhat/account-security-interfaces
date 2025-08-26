@@ -1,0 +1,2 @@
+export FLASK_APP=asi_logging_server.py
+export FLASK_ENV=development
